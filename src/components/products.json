@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 5
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 45
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 47500
+    },
+    {
+        "id": 5,
+        "title": "Gemi",
+        "price": 46000
+    },
+    {
+        "id": 6,
+        "title": "1 TL",
+        "price": 0.025
+    },
+    {
+        "id": 7,
+        "title": "100 TL",
+        "price": 2.5
+    },
+    {
+        "id": 8,
+        "title": "İpad Pro",
+        "price": 400
+    },
+    {
+        "id": 9,
+        "title": "Çanta",
+        "price": 80
+    },
+    {
+        "id": 10,
+        "title": "Elmas",
+        "price": 3000
+    },
+    {
+        "id": 11,
+        "title": "Mona Lisa Tablosu",
+        "price": 800000
+    },
+    {
+        "id": 12,
+        "title": "Ekmek",
+        "price": 1
+    }
+]

@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Header from "./Header/page";
 import { useState, useEffect } from "react";
-import Products from "@/components/Products.json";
+import Products from "@/components/products.json";
 import { Product } from "@/components/Product";
 import Basket from "@/components/Basket";
 

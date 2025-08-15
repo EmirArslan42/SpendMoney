@@ -2,9 +2,9 @@ import React from "react";
 
 const BasketItem = ({ item,product }) => {
   return (
-      <div>
-        <div>{product.title} X {item.amount}</div>
-      </div>
+      <li className="basket-item list-none pt-3 text-[17px]">
+        {product.title} X <span className="text-[#999]">{item.amount}</span>
+      </li>
   );
 };
 

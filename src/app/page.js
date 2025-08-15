@@ -30,7 +30,8 @@ export default function Home() {
   return (
     <div>
       <Header total={total} money={money} />
-      {Products.map((item) => (
+      <div className="container products py-5 w-[1000px] my-0 mx-auto flex flex-wrap justify-between">
+        {Products.map((item) => (
         <Product
           basket={basket}
           setBasket={setBasket}
@@ -40,7 +41,9 @@ export default function Home() {
           money={money}
         />
       ))}
-      {total > 0 && (
+      </div>
+      <div className="!container !w-[1000px] mx-auto">
+        {total > 0 && (
         <Basket
           resetBasket={resetBasket}
           total={total}
@@ -48,6 +51,7 @@ export default function Home() {
           basket={basket}
         />
       )}
+      </div>
     </div>
   );
 }

@@ -2,61 +2,73 @@
     {
         "id": 1,
         "title": "Sakız",
-        "price": 0.5
+        "price": 0.5,
+         "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
     },
     {
         "id": 2,
         "title": "Kola",
-        "price": 5
+        "price": 5,
+        "image":"https://images.migrosone.com/sanalmarket/product/08010001/08010001_1-fb0c69-1650x1650.jpg"
     },
     {
         "id": 3,
         "title": "Ayakkabı",
-        "price": 45
+        "price": 45,
+        "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,e_sharpen/global/395016/04/fnd/TUR/w/1000/h/1000/fmt/png"
     },
     {
         "id": 4,
         "title": "Araba",
-        "price": 47500
+        "price": 47500,
+        "image":"https://d2ly9j2wcshstw.cloudfront.net/productimages/127099/big/56048_lamborghini-centenario-oyuncak-araba-12-cm_2.jpg"
     },
     {
         "id": 5,
         "title": "Gemi",
-        "price": 46000
+        "price": 46000,
+        "image":"https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
     },
     {
         "id": 6,
         "title": "1 TL",
-        "price": 0.025
+        "price": 0.025,
+        "image":"https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
     },
     {
         "id": 7,
         "title": "100 TL",
-        "price": 2.5
+        "price": 2.5,
+        "image":"https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
     },
     {
         "id": 8,
         "title": "İpad Pro",
-        "price": 400
+        "price": 400,
+        "image":"https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
     },
     {
         "id": 9,
         "title": "Çanta",
-        "price": 80
+        "price": 80,
+        "image":"https://d5ec30.a-cdn.akinoncloud.com/products/2024/11/04/1427/11614349-39d2-4a9c-a37e-6b4cd7891982_cropCenter.jpg"
     },
     {
         "id": 10,
         "title": "Elmas",
-        "price": 3000
+        "price": 3000,
+        "image":"https://im-diamond.com/wp-content/uploads/sites/2/2020/10/polished-diamond-gia.boyut_.png"
     },
     {
         "id": 11,
         "title": "Mona Lisa Tablosu",
-        "price": 800000
+        "price": 800000,
+        "image":"https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/1/monalisa-with-white-background-sushil-deokar.jpg"
     },
     {
         "id": 12,
         "title": "Ekmek",
-        "price": 1
+        "price": 1,
+        "image":"https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/vOsfLrRtD1_500x500.png"
     }
 ]
